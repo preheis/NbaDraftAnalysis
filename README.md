@@ -1,3 +1,3 @@
-# Nba Draft Analysis
+# Nba MVP Analysis
 
-A look at 2016 NBA draft players contributions to their teams.
+A statistical examination of all regular season NBA MVPs
